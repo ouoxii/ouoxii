@@ -17,6 +17,8 @@
     </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=ouoxii&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
 
-<!-- [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ouoxii)](https://github.com/anuraghazra/github-readme-stats) -->
+
+![ouoxii's GitHub stats](https://github-readme-stats.vercel.app/api?username=ouoxii&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ouoxii&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
