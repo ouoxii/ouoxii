@@ -21,4 +21,5 @@
 
 ![ouoxii's GitHub stats](https://github-readme-stats.vercel.app/api?username=ouoxii&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ouoxii&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+![ouoxii](https://github-readme-stats.vercel.app/api/top-langs/?username=ouoxii&layout=donut&theme=dracula)
