@@ -22,4 +22,4 @@
 ![ouoxii's GitHub stats](https://github-readme-stats.vercel.app/api?username=ouoxii&show_icons=true&theme=dracula)
 
 
-![ouoxii](https://github-readme-stats.vercel.app/api/top-langs/?username=ouoxii&layout=donut&theme=dracula)
+<!-- ![ouoxii](https://github-readme-stats.vercel.app/api/top-langs/?username=ouoxii&layout=donut&theme=dracula) -->
