@@ -4,7 +4,7 @@
 ## Programming Language
 <p>
 <a href="#">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,matlab,php,java&perline=7" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,matlab,php,java,flutter&perline=7" />
 </a>
 
 </p>
@@ -13,7 +13,7 @@
 
 <p>
     <a href="#">
-    <img src="https://skillicons.dev/icons?i=bootstrap,tensorflow,react,nodejs,jquery,mysql,maven,git,discord,github,vscode,firebase,mongodb&perline=7" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,nodejs,jquery,mysql,maven,git,firebase,react,mongodb,tailwind,bootstrap,discord,github,vscode,obsidian&perline=7" />
     </a>
 </p>
 
