@@ -13,7 +13,7 @@
 
 <p>
     <a href="#">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,nodejs,jquery,mysql,maven,git,firebase,react,mongodb,tailwind,bootstrap,discord,github,vscode,obsidian&perline=7" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,nodejs,jquery,mysql,spring,maven,git,firebase,react,mongodb,tailwind,bootstrap,discord,github,vscode,obsidian&perline=7" />
     </a>
 </p>
 
